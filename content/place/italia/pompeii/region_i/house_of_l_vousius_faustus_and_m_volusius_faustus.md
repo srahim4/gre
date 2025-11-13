@@ -11,6 +11,13 @@ modified: 2025-06-29
 draft: true
 ---
 
+
+# NOTE: this appears to be a near-duplicate of I.ii.10.md
+
+
+
+
+
 ## Location
 
 - [Pompeii]({{<relref "../../..">}})
